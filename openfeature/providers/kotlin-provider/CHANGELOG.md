@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/mcabrolier/go-feature-flag/compare/openfeature/providers/kotlin-provider/v1.0.1...openfeature/providers/kotlin-provider/v1.0.2) (2026-08-10)
+
+
+### 🔧 Chores
+
+* **main:** release openfeature/providers/kotlin-provider 1.0.1 ([ec4a480](https://github.com/mcabrolier/go-feature-flag/commit/ec4a4808649d69f6f68a8f1e8519ff13f655a0d1))
+* **main:** release openfeature/providers/kotlin-provider 1.0.1 ([0407dd6](https://github.com/mcabrolier/go-feature-flag/commit/0407dd6e423c33526d96ea417dea56b776d7103c))
+
 ## [1.0.1](https://github.com/mcabrolier/go-feature-flag/compare/openfeature/providers/kotlin-provider/v1.0.0...openfeature/providers/kotlin-provider/v1.0.1) (2026-08-10)
 
 
